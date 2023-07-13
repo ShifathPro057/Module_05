@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header_part{
+    background-image: url(images/imrs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 18px;
+}
+.link_button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(tomato, HotPink);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.head_con{
+    text-align: center;
+    color: white;
+}
+.head_con p{
+    margin-bottom: 50px;
+}
+.donate_today_title{
+    text-align: center;
+}
+.donate_today_con{
+    display: flex;
+    margin-left: 260px;
+    margin-top: 50px;
+}
+.Amount{
+    background-color: Lavender;
+    margin-left: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+}
+.donate_today_taka{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+hr{
+    width: 50%;
+    margin-bottom: 20px;
+}
+#youk{
+    color: tomato;
+    background-color: Bisque;
+    border: 2px solid tomato;
+}
+.donate_plan_title{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.donate_plan_con{
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: 100px;
+}
+.donate_plan_item{
+    background-color: LightCyan;
+    padding: 40px 30px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.donate_plan_item h3{
+    font-size: 25px;
+}
+#shelter{
+    background-color: Lavender;
+}
+#education{
+    background-color: LightYellow;
+}
+.donate{
+    margin-bottom: 100px;
+}
+.donate_items{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 10%;
+}
+.donate_img img{
+    width: 80%;
+    height: 450px;
+}
+.donate_con{
+    width: 45%;
+}
+.donate_img{
+    width: 45%;
+}
+.donate_con p{
+    margin-bottom: 50px;
+}
+.update_title{
+    text-align: center;
+}
+.update{
+    margin-bottom: 100px;
+}
+form{
+    text-align: center;
+}
+.update_button{
+    background-color: Bisque;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 50px;
+    padding: 80px 0;
+    border-radius: 10px;
+}
+input{
+    background-color: Gainsboro;
+    height: 30px;
+    width: 200px;
+    border: none;
+    outline: none;
+    padding: 5px 20px;
+    border-radius: 25px 0 0 25px;
+}
+button{
+    position: relative;
+    left: -5px;
+    background-color: tomato;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 0 25px 25px 0;
+}
+.footer h3{
+    color: Coral;
+    font-size: 30px;
+}
+.footer p{
+    color: gray;
+}
+.footer{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
